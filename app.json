@@ -1,5 +1,5 @@
 {
-  "name": "vmess or vless",
+  "name": "text",
   "description": "vmess or vless",
   "keywords": [
     "vmess or vless"
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/qiudfvs/text",
+  "repository": "https://github.com/qiudfvs/text",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
